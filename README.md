@@ -1,0 +1,2 @@
+# gndu
+mid-exam repository
